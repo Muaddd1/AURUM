@@ -2,7 +2,7 @@
 
 A complete, production-ready e-commerce storefront template built specifically for **gold shops, jewelers, and jewelry brands** — karats, gram weight, making charges, and certificates are first-class, not bolted on. Dark-luxury design system with an ivory light mode, full Arabic/English bilingual support with true RTL layout, and a live Gold Price Calculator as the signature feature.
 
-**[Buy the source — $49](https://muadme.gumroad.com/l/aurum)**
+**[Buy the source — $49](https://muadme.gumroad.com/l/aurum)** · **[Live demo](https://aurum-template-muad1.vercel.app)**
 
 ![Home](screenshots/01-home.jpg)
 ![Shop](screenshots/02-shop.jpg)
