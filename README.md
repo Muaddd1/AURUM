@@ -34,6 +34,10 @@ React 18 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · Zustand ·
 
 This repo is a showcase — screenshots and a feature overview only. The full source (React + TypeScript + Tailwind, ready to run with `npm install && npm run dev`) is a one-time purchase on Gumroad above.
 
+## What the source includes
+
+All product pricing (karat, weight, making charge) is driven by one data file, and the gold price, exchange rates, WhatsApp number, fonts and colors are each a single, documented swap point — so rebranding for a real shop is a matter of editing data, not hunting through components.
+
 ## Image sourcing note
 
 Every placeholder photo in the template was individually fetched and visually inspected before inclusion — two candidates showing real trademarked watch dials were found and rejected, and only genuinely free-license imagery was kept.
