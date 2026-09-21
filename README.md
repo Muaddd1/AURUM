@@ -38,6 +38,12 @@ This repo is a showcase — screenshots and a feature overview only. The full so
 
 All product pricing (karat, weight, making charge) is driven by one data file, and the gold price, exchange rates, WhatsApp number, fonts and colors are each a single, documented swap point — so rebranding for a real shop is a matter of editing data, not hunting through components.
 
+## More templates
+
+- [AURELIA](https://github.com/Muaddd1/AURELIA) — luxury e-commerce React template ([demo](https://aurelia-template-phi.vercel.app))
+- [VANTA](https://github.com/Muaddd1/VANTA) — premium digital-product storefront ([demo](https://vanta-creator-os.vercel.app))
+- [GOLDEN CRUST](https://github.com/Muaddd1/GOLDEN-CRUST) — pizza restaurant template with a 3D pizza hero ([demo](https://golden-crust-muad1.vercel.app))
+
 ## Image sourcing note
 
 Every placeholder photo in the template was individually fetched and visually inspected before inclusion — two candidates showing real trademarked watch dials were found and rejected, and only genuinely free-license imagery was kept.
