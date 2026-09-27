@@ -13,7 +13,7 @@ A complete, production-ready e-commerce storefront template built specifically f
 
 ## Stack
 
-React 18 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · Zustand · React Router v6 · React Hook Form · Zod
+React 19 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · Zustand · React Router v7 · React Hook Form · Zod
 
 ## Features
 
