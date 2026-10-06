@@ -54,3 +54,7 @@ All product pricing (karat, weight, making charge) is driven by one data file, a
 ## Image sourcing note
 
 Every placeholder photo in the template was individually fetched and visually inspected before inclusion — two candidates showing real trademarked watch dials were found and rejected, and only genuinely free-license imagery was kept.
+
+## Author
+
+Built by [Mouad Sehli](https://muad-portfolio.vercel.app), freelance front-end developer (React, TypeScript, Tailwind). More work and contact details are on the [portfolio](https://muad-portfolio.vercel.app).
